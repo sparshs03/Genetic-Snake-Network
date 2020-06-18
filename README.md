@@ -1,6 +1,6 @@
 # Neural Network + Genetic Algorithim to play the game Snake
 
-Supervised Neural Networks require data, and that would be non-trival to aquire in a virtual environment.
+Supervised Neural Networks require data, which would get messy to aquire in a virtual environment.
 Using a Genetic Algorithim which is a Meta Heuristic method to optimize the weights for the Neural Network, We can teach the 
 Snake to find and eat food.
 
