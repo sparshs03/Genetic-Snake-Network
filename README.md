@@ -20,5 +20,7 @@ OUTPUT:
     
     Highest number gets picked.
 
+TODO - Increase line of sight for snake for better turn predictions
+
 Uses Eigen for Matrix Operations
 https://github.com/PX4/eigen
