@@ -19,3 +19,5 @@ OUTPUT:
     3. Number representing "Should I turn right?"
     
     Highest number gets picked.
+
+Uses Eigen for Matrix Operations
