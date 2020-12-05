@@ -1,7 +1,7 @@
 # Neural Network + Genetic Algorithim to play the game Snake
 
-Supervised Neural Networks require data, which would be messy to aquire in a virtual environment.
-Using a Genetic Algorithim which is a Meta Heuristic method to optimize the weights for the Neural Network, we can teach the 
+Supervised Neural Networks require lots of data, which would get messy to aquire in a virtual environment.
+Using a Genetic Algorithim which is a Meta Heuristic method to randomly choose and optimize the weights for the Neural Network, we can teach the 
 snake to find and eat food.
 
 INPUTS:
@@ -20,7 +20,7 @@ OUTPUT:
     
     Highest number gets picked.
 
-TODO - Increase line of sight for snake for better turn predictions
+TODO - Add more lines of sight so the snake has more information
 
 Uses Eigen for Matrix Operations
 https://github.com/PX4/eigen
