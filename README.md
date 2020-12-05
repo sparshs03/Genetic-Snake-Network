@@ -1,4 +1,6 @@
-# Neural Network + Genetic Algorithim to play the game Snake
+# Neural Network + Genetic Algorithm to play the game Snake
+
+![](example.gif)
 
 Supervised Neural Networks require lots of data, which would get messy to aquire in a virtual environment.
 Using a Genetic Algorithim which is a Meta Heuristic method to randomly choose and optimize the weights for the Neural Network, we can teach the 
